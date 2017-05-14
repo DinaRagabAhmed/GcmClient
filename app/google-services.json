@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "123581716557",
+    "firebase_url": "https://gcmpushnotification-167412.firebaseio.com",
+    "project_id": "gcmpushnotification-167412",
+    "storage_bucket": "gcmpushnotification-167412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123581716557:android:92af5173d7127fd5",
+        "android_client_info": {
+          "package_name": "com.iti.gcmpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123581716557-7g7toj017mcak8rd1g11m3p38glmnrs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxOhHiYN3crrmBtsvGDuKMVw83rny_7DM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
